@@ -14,8 +14,10 @@
 * **nodeExists** (address) => boolean
   Fetches in the nodes array if the provided node already exists and returns this information
 
-###Screencast de l'utilisation de la fonction checkChain sur Postman
+
+### Screencast de l'utilisation de la fonction checkChain sur Postman
 https://youtu.be/F_BZCs_qD7I
+
 
 ### Analyse Critique du Proof of Work
 1. Problèmes de l'implémentation actuelle
